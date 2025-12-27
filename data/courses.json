@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "/images/belajar-saham-untuk-pemula.jpg",
+    "title": "Belajar Trading Saham untuk Pemula",
+    "description": "Panduan belajar dari Mentor Pak Eki Lesmana.",
+    "slug": "trading-saham-untuk-pemula",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Mindset dan Psikologi Trading",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Pengenalan dan Pengantar Materi",
+            "description": "wajib tonton sebelum mulai trading untuk pemula.",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/Ej-J_tXpSXI"
+          },
+          {
+            "id": 2,
+            "title": "Kenapa banyak yang rugi di saham",
+            "description": "Dicekal semesta?.",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/1Pm0C5etzEw"
+          },
+          {
+            "id": 3,
+            "title": "Bagaimana modal dapat bertumbuh",
+            "description": "Provit vs Loss",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/6gnSeASvFmk"
+          },
+          {
+            "id": 4,
+            "title": "Memilih sisi koin yang lebih berat",
+            "description": "Koin yang berat sebelah itu ada.",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/IY_oPd2cFxY"
+          },
+          {
+            "id": 5,
+            "title": "Kekuatan dari Risk-Reward dan Ekspektasi",
+            "description": "Cut your loss short and let your profit run...Please",
+            "sequence_order": 5,
+            "youtube_embed_url": "https://www.youtube.com/embed/9zLDkim-cZI"
+          },
+          {
+            "id": 6,
+            "title": "Pilar dalam Trading",
+            "description": "4 Pilar utama dalam trading.",
+            "sequence_order": 6,
+            "youtube_embed_url": "https://www.youtube.com/embed/GT17xjUTfbg"
+          },
+          {
+            "id": 7,
+            "title": "Dosa Mematikan dalam Trading",
+            "description": "7 Dosa mematikan dalam trading.",
+            "sequence_order": 7,
+            "youtube_embed_url": "https://www.youtube.com/embed/xIPm0iTbfw8"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Risk & Money Management",
+        "lessons": [
+          {
+            "id": 8,
+            "title": "Mengenal Risiko di Pasar Modal",
+            "description": "Resiko yang paling saya takut.",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/t5ko4ZJ2a1w"
+          },
+          {
+            "id": 9,
+            "title": "Membatasi kerugian di angka berapa?",
+            "description": "Kuat rugi di angka berapa?",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/WNAECMKy53w"
+          },
+          {
+            "id": 10,
+            "title": "Risiko yang wajar dalam trading",
+            "description": "Saya loss 5x beruntun apakah itu normal?",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/rJ1WhChzlwA"
+          },
+          {
+            "id": 11,
+            "title": "Cara membuat Trading Plan dan Lot Sizing",
+            "description": "Bagaimana cara membuat Trading Plan?",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/F_tEuM-_f4k"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Analisa Teknikal",
+        "lessons": [
+          {
+            "id": 12,
+            "title": "Buat Apa Belajar Analisa!?",
+            "description": "Ngapain belajar analisa?.",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/IpK9GYTin3k"
+          },
+          {
+            "id": 13,
+            "title": "Menggunakan Alert di Trading View (dan fitur Lainnya)",
+            "description": "Penting sekali menggunakan Notifikasi Trading.",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/zPAKXVhSvVU"
+          },
+          {
+            "id": 14,
+            "title": "Chart Settings yang Saya Pakai",
+            "description": "Setting Chart untuk Trading",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/X8irwq7pr6g"
+          },
+          {
+            "id": 15,
+            "title": "Cara setup Watchlist dan Hotlist di Trading View (dan fitur lainnya)",
+            "description": "Bagaimana mengatur Watchlist dan Hotlist.",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/Ldf7-C3lmCw"
+          },
+          {
+            "id": 16,
+            "title": "Toolbar dan Shortcut di Trading View",
+            "description": "Toolbar Magnet Shortcut dan fitur lainnya.",
+            "sequence_order": 5,
+            "youtube_embed_url": "https://www.youtube.com/embed/9BHq-IpN7iE"
+          },
+          {
+            "id": 17,
+            "title": "Cara menggunakan Screener di Trading View",
+            "description": "Bagaimana cara pakai Screener?",
+            "sequence_order": 6,
+            "youtube_embed_url": "https://www.youtube.com/embed/uC2eTHUu9yI"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Belajar Analisa Lanjutan",
+        "lessons":[
+          {
+            "id": 18,
+            "title": "Basic Analisa Transaksi",
+            "description": "Workflow Trading saya Akumulasi & Distribusi Screening Saham dan Lainnya",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/-EHepWSHIJo"
+          },
+          {
+            "id": 19,
+            "title": "Sesi QnA Basic Analisa Transaksi",
+            "description": "QnA Session",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/cTtd3oS1WkU"
+          },
+          {
+            "id": 20,
+            "title": "Mengenal Saham Pinky dan Potensi Repo",
+            "description": "Mengenal saham PINKY dan Potensi Repo",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/j0um4kZy354"
+          },
+          {
+            "id": 21,
+            "title": "Cara Profit dengan Trend Following",
+            "description": "Profit dengan Trend Following",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/eUdHYW99ubw"
+          },
+          {
+            "id": 22,
+            "title": "Elliot Wave Theory",
+            "description": "Teori Elliot Wave",
+            "sequence_order": 5,
+            "youtube_embed_url": "https://www.youtube.com/embed/2nu2VCOqX-k"
+          },
+          {
+            "id": 23,
+            "title": "Emotionless Trading with IPOT ATM",
+            "description": "Perdagangan Tanpa Emosi dengan IPOT ATM",
+            "sequence_order": 6,
+            "youtube_embed_url": "https://www.youtube.com/embed/A6UOvjwHdCk"
+          },
+          {
+            "id": 24,
+            "title": "Market Structure",
+            "description": "Struktur Pasar",
+            "sequence_order": 7,
+            "youtube_embed_url": "https://www.youtube.com/embed/twuX_x47tEA"
+          },
+          {
+            "id": 25,
+            "title": "Basic Volume Analysis-Dow Theory",
+            "description": "Analisa Volume Dasar",
+            "sequence_order": 8,
+            "youtube_embed_url": "https://www.youtube.com/embed/vgqJsxHTBPA"
+          },
+          {
+            "id": 26,
+            "title": "Saya Nyangkut, harus bagaimana?",
+            "description": "Terlanjur nyangkut",
+            "sequence_order": 9,
+            "youtube_embed_url": "https://www.youtube.com/embed/xQPONi3yDcY"
+          }
+        ]
+      }
+    ]
+  }
+]
