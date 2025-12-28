@@ -3,7 +3,7 @@
     "id": 1,
     "thumbnail": "/images/belajar-saham-untuk-pemula.jpg",
     "title": "Belajar Trading Saham untuk Pemula",
-    "description": "Panduan belajar dari Mentor Pak Eki Lesmana.",
+    "description": "Panduan Alur belajar dari Mentor Pak Eki Lesmana.",
     "slug": "trading-saham-untuk-pemula",
     "modules": [
       {
@@ -209,6 +209,187 @@
             "description": "Terlanjur nyangkut",
             "sequence_order": 9,
             "youtube_embed_url": "https://www.youtube.com/embed/xQPONi3yDcY"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Kelas Trading SKS Andy Senjaya",
+        "lessons":[
+          {
+            "id":27,
+            "title": "Belajar Saham Dari 0",
+            "description": "Keuntungan Investasi.",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/NjsUrZ1NL0k"
+          },
+          {
+            "id":28,
+            "title": "Cara Beli Saham",
+            "description": "Bid Offer Saham dan Auto Rejection.",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/IzsYTb2WdGs"
+          },
+          {
+            "id":29,
+            "title": "Trader vs Investor",
+            "description": "Lebih untung mana?.",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/Lg_WGuMY6Wc"
+          },
+          {
+            "id":30,
+            "title": "5 Prinsip Risk Management",
+            "description": "Prinsip manajemen resiko.",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/P1bWwi9yyYc"
+          },
+          {
+            "id":31,
+            "title": "Berapa Lot Ideal Untuk Beli Saham?",
+            "description": "Kalkulator manajemen keuangan.",
+            "sequence_order": 5,
+            "youtube_embed_url": "https://www.youtube.com/embed/qyPh75xTFnI"
+          },
+          {
+            "id":32,
+            "title": "Cara Membaca Candlestick",
+            "description": "Pemula wajib nonton ini!.",
+            "sequence_order": 6,
+            "youtube_embed_url": "https://www.youtube.com/embed/vxMz0_ohiGQ"
+          },
+          {
+            "id":33,
+            "title": "Cara Membaca Trend Saham",
+            "description": "Uptrend Downtrend Sideways.",
+            "sequence_order": 7,
+            "youtube_embed_url": "https://www.youtube.com/embed/yVngmldJpaE"
+          },
+          {
+            "id":34,
+            "title": "Cara Menentukan Support dan Resistance Part 1",
+            "description": "Support dan Resistance.",
+            "sequence_order": 8,
+            "youtube_embed_url": "https://www.youtube.com/embed/8T9OxV0jRac"
+          },
+          {
+            "id":35,
+            "title": "Cara Menentukan Support dan Resistance Part 2",
+            "description": "Support dan Resistance Lanjutan.",
+            "sequence_order": 9,
+            "youtube_embed_url": "https://www.youtube.com/embed/Rf8eOGajSPs"
+          },
+          {
+            "id":36,
+            "title": "Pola Ini Akan Kasih Kamu Cuan Besar Part 1",
+            "description": "Chart Pattern Part 1.",
+            "sequence_order": 10,
+            "youtube_embed_url": "https://www.youtube.com/embed/N81N5aoS7Vk"
+          },
+          {
+            "id":37,
+            "title": "Akhirnya Tahu Dimana Target Profit!",
+            "description": "Chart Pattern Part 2.",
+            "sequence_order": 11,
+            "youtube_embed_url": "https://www.youtube.com/embed/_Wa6bbK0OC0"
+          },
+          {
+            "id":38,
+            "title": "Rahasia Ilmu Candlestick Pattern Beli Saham Murah",
+            "description": "Pattern saham murah.",
+            "sequence_order": 12,
+            "youtube_embed_url": "https://www.youtube.com/embed/8ObrYKBWGaw"
+          },
+          {
+            "id":39,
+            "title": "Mencari Harga Ideal Untuk Beli Saham Dengan Candlestick Pattern",
+            "description": "Harga saham ideal menggunakan Candlestick Pattern.",
+            "sequence_order": 13,
+            "youtube_embed_url": "https://www.youtube.com/embed/rzxbTFZOmTc"
+          },
+          {
+            "id":40,
+            "title": "Membaca Indikator Saham Terbaik Moving Average",
+            "description": "Moving average.",
+            "sequence_order": 14,
+            "youtube_embed_url": "https://www.youtube.com/embed/h6LJObQderQ"
+          },
+          {
+            "id":41,
+            "title": "Rahasia Cara Trading Saham Terbaik Dengan Meenggunakan MA",
+            "description": "MA adalah Moving Average.",
+            "sequence_order": 15,
+            "youtube_embed_url": "https://www.youtube.com/embed/H3tWfU3N7Vc"
+          },
+          {
+            "id":42,
+            "title": "Jangan Trading Saham Pakai Stochastic!",
+            "description": "Indikator Stochastic.",
+            "sequence_order": 16,
+            "youtube_embed_url": "https://www.youtube.com/embed/L_UpARTB6Qg"
+          },
+          {
+            "id":43,
+            "title": "Cara Membaca Divergence Trading Saham Menggunakan MACD",
+            "description": "Divergence Indikator MACD.",
+            "sequence_order": 17,
+            "youtube_embed_url": "https://www.youtube.com/embed/bV6nDYZyW6Q"
+          },
+          {
+            "id":44,
+            "title": "Saham Ini Masih Bisa Naik?",
+            "description": "Rahasianya adalah Hidden Divergence!.",
+            "sequence_order": 18,
+            "youtube_embed_url": "https://www.youtube.com/embed/RlFw2cMZai8"
+          },
+          {
+            "id":45,
+            "title": "Cara Benar Menarik Fibonacci Retracement Untuk Trading Saham",
+            "description": "Indikator Fibonacci Retracement.",
+            "sequence_order": 19,
+            "youtube_embed_url": "https://www.youtube.com/embed/r09H3yOqDmI"
+          },
+          {
+            "id":46,
+            "title": "Fibonacci Retracement Trading Strategi",
+            "description": "Strategi Fibonacci Retracement sangat penting!.",
+            "sequence_order": 20,
+            "youtube_embed_url": "https://www.youtube.com/embed/rvMSSA2hJhE"
+          },
+          {
+            "id":47,
+            "title": "Belajar RBS Strategi Trading Saham",
+            "description": "Resistance become support.",
+            "sequence_order": 21,
+            "youtube_embed_url": "https://www.youtube.com/embed/aNJwiPU0mvU"
+          },
+          {
+            "id":48,
+            "title": "Cara Membaca Volume Saham",
+            "description": "Volume saham penting untuk diperhatikan.",
+            "sequence_order": 22,
+            "youtube_embed_url": "https://www.youtube.com/embed/a1cpJL3mIqs"
+          },
+          {
+            "id":49,
+            "title": "Cara Trading Saham Menggunakan Volume",
+            "description": "Volume Analysis.",
+            "sequence_order": 23,
+            "youtube_embed_url": "https://www.youtube.com/embed/vdPVBq7Kuio"
+          },
+          {
+            "id":50,
+            "title": "Indikator Mahal Saham",
+            "description": "Fixed Range Volume Profile!.",
+            "sequence_order": 24,
+            "youtube_embed_url": "https://www.youtube.com/embed/6JqAKzBpO7k"
+          },
+          {
+            "id":51,
+            "title": "Strategi Trading Saham Supply and Demand",
+            "description": "Supply and Demand Strategy.",
+            "sequence_order": 25,
+            "youtube_embed_url": "https://www.youtube.com/embed/b5Z5DGWby94"
           }
         ]
       }

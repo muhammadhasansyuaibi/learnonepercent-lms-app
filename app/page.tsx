@@ -64,7 +64,7 @@ export default function Home() {
           })}
         </div>
         <Link
-          href="https://web.telegram.org/a/#-4845240042"
+          href="https://web.telegram.org/" target="_blank"
           className="mt-10 inline-block bg-gray-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-gray-700 transition shadow-lg shadow-blue-200"
         >
           Gabung Grub Telegram "Saham bangil"
