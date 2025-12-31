@@ -97,123 +97,6 @@
       },
       {
         "id": 3,
-        "title": "Analisa Teknikal",
-        "lessons": [
-          {
-            "id": 12,
-            "title": "Buat Apa Belajar Analisa!?",
-            "description": "Ngapain belajar analisa?.",
-            "sequence_order": 1,
-            "youtube_embed_url": "https://www.youtube.com/embed/IpK9GYTin3k"
-          },
-          {
-            "id": 13,
-            "title": "Menggunakan Alert di Trading View (dan fitur Lainnya)",
-            "description": "Penting sekali menggunakan Notifikasi Trading.",
-            "sequence_order": 2,
-            "youtube_embed_url": "https://www.youtube.com/embed/zPAKXVhSvVU"
-          },
-          {
-            "id": 14,
-            "title": "Chart Settings yang Saya Pakai",
-            "description": "Setting Chart untuk Trading",
-            "sequence_order": 3,
-            "youtube_embed_url": "https://www.youtube.com/embed/X8irwq7pr6g"
-          },
-          {
-            "id": 15,
-            "title": "Cara setup Watchlist dan Hotlist di Trading View (dan fitur lainnya)",
-            "description": "Bagaimana mengatur Watchlist dan Hotlist.",
-            "sequence_order": 4,
-            "youtube_embed_url": "https://www.youtube.com/embed/Ldf7-C3lmCw"
-          },
-          {
-            "id": 16,
-            "title": "Toolbar dan Shortcut di Trading View",
-            "description": "Toolbar Magnet Shortcut dan fitur lainnya.",
-            "sequence_order": 5,
-            "youtube_embed_url": "https://www.youtube.com/embed/9BHq-IpN7iE"
-          },
-          {
-            "id": 17,
-            "title": "Cara menggunakan Screener di Trading View",
-            "description": "Bagaimana cara pakai Screener?",
-            "sequence_order": 6,
-            "youtube_embed_url": "https://www.youtube.com/embed/uC2eTHUu9yI"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "title": "Belajar Analisa Lanjutan",
-        "lessons":[
-          {
-            "id": 18,
-            "title": "Basic Analisa Transaksi",
-            "description": "Workflow Trading saya Akumulasi & Distribusi Screening Saham dan Lainnya",
-            "sequence_order": 1,
-            "youtube_embed_url": "https://www.youtube.com/embed/-EHepWSHIJo"
-          },
-          {
-            "id": 19,
-            "title": "Sesi QnA Basic Analisa Transaksi",
-            "description": "QnA Session",
-            "sequence_order": 2,
-            "youtube_embed_url": "https://www.youtube.com/embed/cTtd3oS1WkU"
-          },
-          {
-            "id": 20,
-            "title": "Mengenal Saham Pinky dan Potensi Repo",
-            "description": "Mengenal saham PINKY dan Potensi Repo",
-            "sequence_order": 3,
-            "youtube_embed_url": "https://www.youtube.com/embed/j0um4kZy354"
-          },
-          {
-            "id": 21,
-            "title": "Cara Profit dengan Trend Following",
-            "description": "Profit dengan Trend Following",
-            "sequence_order": 4,
-            "youtube_embed_url": "https://www.youtube.com/embed/eUdHYW99ubw"
-          },
-          {
-            "id": 22,
-            "title": "Elliot Wave Theory",
-            "description": "Teori Elliot Wave",
-            "sequence_order": 5,
-            "youtube_embed_url": "https://www.youtube.com/embed/2nu2VCOqX-k"
-          },
-          {
-            "id": 23,
-            "title": "Emotionless Trading with IPOT ATM",
-            "description": "Perdagangan Tanpa Emosi dengan IPOT ATM",
-            "sequence_order": 6,
-            "youtube_embed_url": "https://www.youtube.com/embed/A6UOvjwHdCk"
-          },
-          {
-            "id": 24,
-            "title": "Market Structure",
-            "description": "Struktur Pasar",
-            "sequence_order": 7,
-            "youtube_embed_url": "https://www.youtube.com/embed/twuX_x47tEA"
-          },
-          {
-            "id": 25,
-            "title": "Basic Volume Analysis-Dow Theory",
-            "description": "Analisa Volume Dasar",
-            "sequence_order": 8,
-            "youtube_embed_url": "https://www.youtube.com/embed/vgqJsxHTBPA"
-          },
-          {
-            "id": 26,
-            "title": "Saya Nyangkut, harus bagaimana?",
-            "description": "Terlanjur nyangkut",
-            "sequence_order": 9,
-            "youtube_embed_url": "https://www.youtube.com/embed/xQPONi3yDcY"
-          }
-        ]
-      },
-      {
-        "id": 5,
         "title": "Kelas Trading SKS Andy Senjaya",
         "lessons":[
           {
@@ -390,6 +273,96 @@
             "description": "Supply and Demand Strategy.",
             "sequence_order": 25,
             "youtube_embed_url": "https://www.youtube.com/embed/b5Z5DGWby94"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Belajar Analisa Lanjutan",
+        "lessons":[
+          {
+            "id": 15,
+            "title": "Cara Analisis Trend saat Trading Saham",
+            "description": "Analisis Trend ala Michael Yeoh",
+            "sequence_order": 1,
+            "youtube_embed_url": "https://www.youtube.com/embed/cVG4P2uBj1Q"
+          },
+          {
+            "id": 16,
+            "title": "Cara Analisis Volume saat Trading Saham",
+            "description": "Analisis Volume ala Michael Yeoh",
+            "sequence_order": 2,
+            "youtube_embed_url": "https://www.youtube.com/embed/YA2zyuDQbtI"
+          },
+          {
+            "id": 17,
+            "title": "Time Frame Analisis Teknikal",
+            "description": "Time Frame Analisis Teknikal ala Michael Yeoh",
+            "sequence_order": 3,
+            "youtube_embed_url": "https://www.youtube.com/embed/zKBsUy0sQ6g"
+          },
+          {
+            "id": 18,
+            "title": "Basic Analisa Transaksi",
+            "description": "Workflow Trading saya Akumulasi & Distribusi Screening Saham dan Lainnya",
+            "sequence_order": 4,
+            "youtube_embed_url": "https://www.youtube.com/embed/-EHepWSHIJo"
+          },
+          {
+            "id": 19,
+            "title": "Sesi QnA Basic Analisa Transaksi",
+            "description": "QnA Session",
+            "sequence_order": 5,
+            "youtube_embed_url": "https://www.youtube.com/embed/cTtd3oS1WkU"
+          },
+          {
+            "id": 20,
+            "title": "Mengenal Saham Pinky dan Potensi Repo",
+            "description": "Mengenal saham PINKY dan Potensi Repo",
+            "sequence_order": 6,
+            "youtube_embed_url": "https://www.youtube.com/embed/j0um4kZy354"
+          },
+          {
+            "id": 21,
+            "title": "Cara Profit dengan Trend Following",
+            "description": "Profit dengan Trend Following",
+            "sequence_order": 7,
+            "youtube_embed_url": "https://www.youtube.com/embed/eUdHYW99ubw"
+          },
+          {
+            "id": 22,
+            "title": "Elliot Wave Theory",
+            "description": "Teori Elliot Wave",
+            "sequence_order": 8,
+            "youtube_embed_url": "https://www.youtube.com/embed/2nu2VCOqX-k"
+          },
+          {
+            "id": 23,
+            "title": "Emotionless Trading with IPOT ATM",
+            "description": "Perdagangan Tanpa Emosi dengan IPOT ATM",
+            "sequence_order": 9,
+            "youtube_embed_url": "https://www.youtube.com/embed/A6UOvjwHdCk"
+          },
+          {
+            "id": 24,
+            "title": "Market Structure",
+            "description": "Struktur Pasar",
+            "sequence_order": 10,
+            "youtube_embed_url": "https://www.youtube.com/embed/twuX_x47tEA"
+          },
+          {
+            "id": 25,
+            "title": "Basic Volume Analysis-Dow Theory",
+            "description": "Analisa Volume Dasar",
+            "sequence_order": 11,
+            "youtube_embed_url": "https://www.youtube.com/embed/vgqJsxHTBPA"
+          },
+          {
+            "id": 26,
+            "title": "Saya Nyangkut, harus bagaimana?",
+            "description": "Terlanjur nyangkut",
+            "sequence_order": 12,
+            "youtube_embed_url": "https://www.youtube.com/embed/xQPONi3yDcY"
           }
         ]
       }
